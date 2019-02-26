@@ -1,0 +1,2 @@
+(2/26) Creation of the project. I want to create a general purpose number converter. Want to be able to convert from any base to any base (within reason I suppose).
+(2/26) Added a makefile and a .gitignore file
