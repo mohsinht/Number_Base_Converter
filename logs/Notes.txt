@@ -1,0 +1,4 @@
+Ideas For Implementation:
+    Have a general conversion method. Convert all forms to decimal, then convert from decimal to the desired base by division.
+    How will I interface with the program? Probably the best implementation will be some sort of interpreter that the user interfaces with
+    via the command line. IE it will print "what base to covert from, what base to convert to, the number (in a string) to be converted
